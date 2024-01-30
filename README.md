@@ -2,8 +2,11 @@
 ---
 ## grayscale image denoising-
 ---
-##  24.01.
-
+##  24.01.19 ~ 24.01.26
+support (Statistically unbiased prediction enables accurate denoising of voltage imaging data)
+github(https://github.com/NICALab/SUPPORT)
+![스크린샷 2024-01-30 134758](https://github.com/Lee-ghwan-ho/denoising/assets/114568122/22911b32-e6dd-4445-8bec-69edb22a9e01)
+왼쪽이 noise image 픽셀 히스토그램, 오른쪽이 support 실행후 픽셀 히스토그램
 
 ---
 ## 24.01.30

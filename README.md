@@ -7,7 +7,8 @@
 
 ---
 ## 24.01.30
-
+rank 1	KBNe t29.54		
+KBNet: Kernel Basis Network for Image Restoration
 # 연구과제에 필요한 image_denoising 모델을 찾다가, grayscale image denoising sota 모델 이용
 ![image](https://github.com/Lee-ghwan-ho/denoising/assets/114568122/86588dbf-b3a1-463e-a046-7fe28544888f)
 - 1.학습된 pretrained_model을 다운 받음(파일위치:https://mycuhk-my.sharepoint.com/personal/1155135732_link_cuhk_edu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F1155135732%5Flink%5Fcuhk%5Fedu%5Fhk%2FDocuments%2Fshare%2FKBNet&ga=1)

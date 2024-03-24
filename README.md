@@ -28,3 +28,8 @@ KBNet: Kernel Basis Network for Image Restoration
 
 ---
 
+##  24.03.08 SWINIR 공부 & 실행
+![image](https://github.com/Lee-ghwan-ho/denoising/assets/114568122/c51b16ab-4e35-44c5-87c5-7109a61e4705)
+
+
+---

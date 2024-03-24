@@ -22,3 +22,11 @@ KBNet: Kernel Basis Network for Image Restoration
 ![스크린샷 2024-01-30 151846](https://github.com/Lee-ghwan-ho/denoising/assets/114568122/b3f3f9bf-be03-4670-98cb-babad8f81d2c)
 
 ---
+
+
+---
+##  24.02.15 ~ 24.02.22 정처기 공부
+## 정처기 2월22일 필기 합격
+
+---
+

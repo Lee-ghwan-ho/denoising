@@ -23,8 +23,6 @@ KBNet: Kernel Basis Network for Image Restoration
 
 ---
 
-
----
 ##  24.02.15 ~ 24.02.22 정처기 공부
 ## 정처기 2월22일 필기 합격
 
